@@ -7,6 +7,17 @@ Building Skills in Software & Web Development
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1200&color=00F0FF&center=true&vCenter=true&width=900&lines=Trainee+Software+Engineer+at+ICET;Learning+Software+Development;Exploring+Programming+Languages;Building+Projects+and+Skills" />
 </p>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Precision%20in%20Logic%20|%20Excellence%20in%20Execution&fontSize=32&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF"/>
+</div>
+
+---
+
 <h3 align="center">An aspiring software developer focused on web technologies and modern programming</h3>
 
 
