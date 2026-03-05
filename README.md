@@ -19,7 +19,7 @@ Building Skills in Software & Web Development
 
 - 🤝 I’m looking for help with **Improving real-world project structure and backend integration**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sameenlakshitha](https://github.com/sameenlakshitha), https://www.linkedin.com/in/sameen-lakshitha-39872a3ab/
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/sameenlakshitha), [LinkedIn](https://www.linkedin.com/in/sameen-lakshitha-39872a3ab/)
 
 - 💬 Ask me about **Frontend basics, beginner programming, and learning resources**
 
