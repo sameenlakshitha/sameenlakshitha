@@ -11,6 +11,11 @@ Building Skills in Software & Web Development
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Precision%20in%20Logic%20|%20Excellence%20in%20Execution&fontSize=32&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
 </div>
 
+<div align="center">
+    <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="18%" style="margin-top: 20px;" />
+    <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="18%" style="margin-top: 20px;" />
+</div>
+
 <br/>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF"/>
