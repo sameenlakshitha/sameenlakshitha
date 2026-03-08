@@ -4,7 +4,7 @@ Building Skills in Software & Web Development
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1200&color=00F0FF&center=true&vCenter=true&width=900&lines=Trainee+Software+Engineer+at+ICET;Learning+Software+Development;Exploring+Programming+Languages;Building+Projects+and+Skills" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1200&color=00F0FF&center=true&vCenter=true&width=900&lines=Trainee+Software+Engineer+at+iCET;Learning+Software+Development;Exploring+Programming+Languages;Building+Projects+and+Skills" />
 </p>
 
 <div align="center">
