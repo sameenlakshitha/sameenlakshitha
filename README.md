@@ -1,4 +1,4 @@
-<h1 align="center">Sameen Lakshitha 💻✨
+<h1 align="center"> Hii,   I'm Sameen = ^.^ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   
 Building Skills in Software & Web Development
 </h1>
@@ -24,7 +24,8 @@ Building Skills in Software & Web Development
   
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
 
-<h3 align="center">An aspiring software developer focused on web technologies and modern programming</h3>
+<h3 align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> 
+<br>An aspiring software developer focused on web technologies and modern programming</h3>
 
 
 
@@ -35,7 +36,7 @@ Building Skills in Software & Web Development
 - 👯 I’m looking to collaborate on **Beginner-friendly web development projects and open-source learning projects**
 
 - 🤝 I’m looking for help with **Improving real-world project structure and backend integration**
-
+<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif"  />
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/sameenlakshitha), [LinkedIn](https://www.linkedin.com/in/sameen-lakshitha-39872a3ab/)
 
 - 💬 Ask me about **Frontend basics, beginner programming, and learning resources**
